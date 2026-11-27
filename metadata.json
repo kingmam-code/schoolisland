@@ -1,0 +1,6 @@
+{
+  "name": "蘇澳鎮中小學學習島",
+  "description": "結合宜蘭縣蘇澳鎮真實地理與11所國中小學特色的2.5D人物探索學習島，透過移動尋路、在地知識闖關與小鎮護照集章認識家鄉。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
